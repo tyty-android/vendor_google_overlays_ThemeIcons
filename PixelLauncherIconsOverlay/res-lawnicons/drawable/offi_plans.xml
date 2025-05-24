@@ -19,7 +19,7 @@ Copyright (C) 2025 The Android Open Source Project
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="M47,88h98M96,58h21m-70,48h98"
+      android:pathData="M47,87h98M96,58h21m-70,49h98"
       android:strokeWidth="10"
       android:fillColor="#00000000"
       android:strokeColor="#000"

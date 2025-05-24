@@ -124,7 +124,7 @@ Copyright (C) 2025 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="m113,146 l30,-14m-41,-7 l20,42m12,-56 l20,42m-65,-10 l10,21m58,-50 l10,21m0,-45V53a6,6 0,0 0,-6 -6h-40.438a6,6 0,0 1,-5.268 -3.127l-8.588,-15.746A6,6 0,0 0,101.438 25H31a6,6 0,0 0,-6 6v130a6,6 0,0 0,6 6h41"
+      android:pathData="m112,146 l30,-14m-41,-7 l20,42m12,-56 l20,42m-66,-9 l10,21m60,-52 l10,21m0,-44V53a6,6 0,0 0,-6 -6h-40.438a6,6 0,0 1,-5.268 -3.127l-8.588,-15.746A6,6 0,0 0,101.438 25H31a6,6 0,0 0,-6 6v130a6,6 0,0 0,6 6h40"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"

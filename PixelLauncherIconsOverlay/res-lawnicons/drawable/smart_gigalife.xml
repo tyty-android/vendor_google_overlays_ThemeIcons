@@ -26,7 +26,7 @@ Copyright (C) 2025 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M78,115h36L96,83zM96,83s-74,25 -74,67"
+      android:pathData="M76,117h40L96,81zM96,81s-74,27 -74,69"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"

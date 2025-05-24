@@ -26,14 +26,14 @@ Copyright (C) 2025 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M81,53m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"
+      android:pathData="M83,52m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"
       android:strokeLineJoin="round"
       android:strokeWidth="6"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M111,53m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"
+      android:pathData="M109,52m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"
       android:strokeLineJoin="round"
       android:strokeWidth="6"
       android:fillColor="#00000000"
@@ -54,7 +54,7 @@ Copyright (C) 2025 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M83,107h-6m10.043,-8.957 l-4.478,-4.478M115,107h-6m0.435,13.435 l-4.478,-4.479M96,88v6m13.435,-0.435 l-4.478,4.478M96,120v6m-8.957,-10.044 l-4.478,4.479"
+      android:pathData="M83,107h-6m10.043,-8.957 l-4.479,-4.479M115,107h-6m0.435,13.435 l-4.478,-4.478M96,88v6m13.436,-0.436 l-4.479,4.479M96,120v6m-8.957,-10.043 l-4.478,4.478"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"

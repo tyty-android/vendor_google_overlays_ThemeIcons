@@ -1,0 +1,55 @@
+<!--
+Copyright (C) 2025 The Android Open Source Project
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+  <path
+      android:pathData="m71,78 l25,24 25,-24M61,94c0,48 58,48 58,48m-16,-20.56L119,142"
+      android:strokeLineJoin="round"
+      android:strokeWidth="10"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M119,142c-72,0 -76,-38 -76,-38 -9,65 52.5,65 52.5,65M61,94c0,-15.464 15.67,-28 35,-28s35,12.536 35,28c0,13.546 -12.024,24.846 -28,27.44"
+      android:strokeLineJoin="round"
+      android:strokeWidth="10"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M113.259,47.518a1,3 75,1 0,5.796 -1.553a1,3 75,1 0,-5.796 1.553z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="6"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M138,148v16a6,6 0,0 0,6 6h15.333c2.829,0 5.542,-1.159 7.543,-3.222 2,-2.063 3.124,-4.861 3.124,-7.778s-1.124,-5.715 -3.124,-7.778 -4.714,-3.222 -7.543,-3.222zM138,148h18.286c2.829,0 5.542,-1.159 7.542,-3.222s3.124,-4.861 3.124,-7.778 -1.123,-5.715 -3.124,-7.778c-2,-2.063 -4.713,-3.222 -7.542,-3.222L144,126a6,6 0,0 0,-6 6z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="12"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+  <path
+      android:pathData="M61,94s4,-42 -16,-54c3,24 -13,13 -13,49l-9.039,-12.039A75,75 0,0 0,119 165.386M79,66s-1,-15.5 15,-20c22,-37 74,-16 74,-16 -11.134,1.113 -19.789,3.467 -25.274,5.334C138.358,36.821 136,38 136,38c16,-6 35,10 35,10 -6.397,-1.112 -11.788,-1.142 -16.238,-0.605a75,75 0,0 1,14.522 62.555"
+      android:strokeLineJoin="round"
+      android:strokeWidth="10"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+</vector>
