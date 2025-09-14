@@ -19,46 +19,17 @@ Copyright (C) 2025 The Android Open Source Project
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="M46,115L146,115A24,24 0,0 1,170 139L170,139A24,24 0,0 1,146 163L46,163A24,24 0,0 1,22 139L22,139A24,24 0,0 1,46 115z"
+      android:pathData="M22,127a6,6 0,0 1,6 -6h136a6,6 0,0 1,6 6v28a6,6 0,0 1,-6 6L28,161a6,6 0,0 1,-6 -6zM62,121v40m34,-40v40"
+      android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
-      android:strokeColor="#000"/>
-  <path
-      android:fillColor="#FF000000"
-      android:pathData="M46,139h68"
-      android:strokeWidth="12"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:fillColor="#FF000000"
-      android:pathData="M48,85m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"
-      android:strokeWidth="12"/>
-  <path
-      android:fillColor="#FF000000"
-      android:pathData="M48,53m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"
-      android:strokeWidth="12"/>
-  <path
-      android:fillColor="#FF000000"
-      android:pathData="M80,69m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"
-      android:strokeWidth="12"/>
-  <path
-      android:fillColor="#FF000000"
-      android:pathData="M80,37m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"
-      android:strokeWidth="12"/>
-  <path
-      android:fillColor="#FF000000"
-      android:pathData="M112,85m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"
-      android:strokeWidth="12"/>
-  <path
-      android:fillColor="#FF000000"
-      android:pathData="M112,53m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"
-      android:strokeWidth="12"/>
-  <path
-      android:fillColor="#FF000000"
-      android:pathData="M144,69m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"
-      android:strokeWidth="12"/>
-  <path
-      android:fillColor="#FF000000"
-      android:pathData="M144,37m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"
-      android:strokeWidth="12"/>
+      android:pathData="M74,30h10v10L74,40zM74,66h10v10L74,76zM40,48h10v10L40,58zM40,84h10v10L40,94zM142,30h10v10h-10zM142,66h10v10h-10zM108,48h10v10h-10zM108,84h10v10h-10z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="10"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
 </vector>

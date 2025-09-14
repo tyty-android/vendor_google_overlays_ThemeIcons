@@ -19,42 +19,35 @@ Copyright (C) 2025 The Android Open Source Project
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="M66,101c-5,-19 8,-36 30,-36 12,0 35,4 35,21l-1,63 -48,6z"
+      android:pathData="M65,101c-5,-19 8,-36 30,-36 12,0 35,4 35,21l-1,63 -48,6z"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M171,40C105,15 47,58.5 47,58.5V35S21,58.5 21,89c0,48 117,30.5 117,30.5"
+      android:pathData="M171,40.002c-66,-25 -124,18.5 -124,18.5v-23.5s-26,23.5 -26,54c0,48 116,29.998 116,29.998"
       android:strokeLineJoin="round"
       android:strokeWidth="10"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="m92,157 l1,7m27,-11 l1,7"
+      android:pathData="m91,157 l1,7m27,-11 l1,7"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M86,100a2,4 0,1 0,4 0a2,4 0,1 0,-4 0z"
+      android:pathData="M87,104c1.105,0 2,-1.791 2,-4s-0.895,-4 -2,-4 -2,1.79 -2,4 0.895,4 2,4m22,-2c1.105,0 2,-1.791 2,-4s-0.895,-4 -2,-4 -2,1.79 -2,4 0.895,4 2,4"
       android:strokeLineJoin="round"
       android:strokeWidth="6"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M108,98a2,4 0,1 0,4 0a2,4 0,1 0,-4 0z"
-      android:strokeLineJoin="round"
-      android:strokeWidth="6"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m60,158 l-6,-20 -13,6m115,-2 l1,-22 12,3"
+      android:pathData="m59,159 l-6,-20 -13,6m116,-3 l1,-22 12,3"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"

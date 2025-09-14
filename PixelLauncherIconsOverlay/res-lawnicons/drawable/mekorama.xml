@@ -19,28 +19,21 @@ Copyright (C) 2025 The Android Open Source Project
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="m130,55 l11,6 -1,52 -16,11 -30,4 -29,-5 -10,-10 -2,-50 11,-8"
+      android:pathData="m130,55 l11,6 -1,52 -16,11 -30,4 -29,-5 -10,-10 -2,-50 11,-8m57,97 l1,-26m-49,20 l-1,-21"
       android:strokeLineJoin="round"
       android:strokeWidth="10"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="m140,93 l-16,11 -30,4 -29,-5 -10,-10m66,59 l1,-26m-49,20 l-1,-21"
+      android:pathData="m140,91 l-16,11 -30,4 -29,-5 -10,-10m42,-6c17.673,0 32,-14.327 32,-32s-14.327,-32 -32,-32 -32,14.327 -32,32 14.327,32 32,32"
       android:strokeLineJoin="round"
       android:strokeWidth="10"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M97,53m-32,0a32,32 0,1 1,64 0a32,32 0,1 1,-64 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="10"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M97,55m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0"
+      android:pathData="M97,68c7.18,0 13,-5.82 13,-13s-5.82,-13 -13,-13 -13,5.82 -13,13 5.82,13 13,13"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"

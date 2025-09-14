@@ -33,7 +33,7 @@ Copyright (C) 2025 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M96,135a28,28 0,0 1,-28 28c-20,0 -46,-10 -46,-61M96,135a28,28 0,0 0,28 28c20,0 46,-10 46,-61"
+      android:pathData="M96,135a28,28 0,0 1,-28 28c-20,0 -46,-10 -46,-61m74,33a28,28 0,0 0,28 28c20,0 46,-10 46,-61"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"

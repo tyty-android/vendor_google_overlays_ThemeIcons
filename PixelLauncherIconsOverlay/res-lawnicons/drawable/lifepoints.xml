@@ -103,14 +103,14 @@ Copyright (C) 2025 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M69.824,61.886m3.173,-2.435a4,4 118.155,1 0,-6.347 4.87a4,4 118.155,1 0,6.347 -4.87"
+      android:pathData="M69.825,61.885m3.173,-2.435a4,4 118.155,1 0,-6.347 4.87a4,4 118.155,1 0,6.347 -4.87"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M122.177,130.115m3.173,-2.435a4,4 77.877,1 0,-6.347 4.87a4,4 77.877,1 0,6.347 -4.87"
+      android:pathData="M122.176,130.115m3.173,-2.435a4,4 77.877,1 0,-6.347 4.87a4,4 77.877,1 0,6.347 -4.87"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"

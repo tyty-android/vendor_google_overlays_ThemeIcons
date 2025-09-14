@@ -21,42 +21,12 @@ Copyright (C) 2025 The Android Open Source Project
   <path
       android:pathData="m67,139 l5,-6m53,6 l-5,-6m20,-48 l-6,2m-60,6 l-21,-8m43,-31v23"
       android:strokeLineJoin="round"
-      android:strokeWidth="8"
+      android:strokeWidth="10"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M96,37m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="12"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"/>
-  <path
-      android:pathData="M96,100m-23,0a23,23 0,1 1,46 0a23,23 0,1 1,-46 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="12"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"/>
-  <path
-      android:pathData="M59,152m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="12"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"/>
-  <path
-      android:pathData="M133,152m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="12"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"/>
-  <path
-      android:pathData="M37,81m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="12"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"/>
-  <path
-      android:pathData="M155,81m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0"
+      android:pathData="M96,52c8.284,0 15,-6.716 15,-15s-6.716,-15 -15,-15 -15,6.716 -15,15 6.716,15 15,15ZM96,121c11.598,0 21,-9.402 21,-21s-9.402,-21 -21,-21 -21,9.402 -21,21 9.402,21 21,21ZM59,167c8.284,0 15,-6.716 15,-15s-6.716,-15 -15,-15 -15,6.716 -15,15 6.716,15 15,15ZM133,167c8.284,0 15,-6.716 15,-15s-6.716,-15 -15,-15 -15,6.716 -15,15 6.716,15 15,15ZM37,96c8.284,0 15,-6.716 15,-15s-6.716,-15 -15,-15 -15,6.716 -15,15 6.716,15 15,15ZM155,96c8.284,0 15,-6.716 15,-15s-6.716,-15 -15,-15 -15,6.716 -15,15 6.716,15 15,15Z"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"

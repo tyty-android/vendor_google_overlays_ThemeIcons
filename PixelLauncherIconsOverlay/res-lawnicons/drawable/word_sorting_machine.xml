@@ -16,30 +16,13 @@ Copyright (C) 2025 The Android Open Source Project
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="192dp"
     android:height="192dp"
-    android:viewportWidth="50.8"
-    android:viewportHeight="50.8">
+    android:viewportWidth="192"
+    android:viewportHeight="192">
   <path
-      android:pathData="m21.0928,13.1316 l4.3071,-7.325 4.3071,7.325"
+      android:pathData="m80,144 l16,26 16,-26M80,48l16,-26 16,26m-68,76 l22.005,-56L88,124m-6.6,-12H50.955M146,124h-38l38,-56h-38"
       android:strokeLineJoin="round"
-      android:strokeWidth="3.1749933"
+      android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
-      android:fillAlpha="0.0901961"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m21.0928,37.6684 l4.3071,7.325 4.3071,-7.325"
-      android:strokeLineJoin="round"
-      android:strokeWidth="3.1749933"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:fillAlpha="0.0901961"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M15.4375,28.3733l6.2511,0m14.6191,2.5814l-8.1422,0l8.1422,-11.1091l-8.1422,0M14.492,30.9547l4.0721,-11.1091 4.0701,11.1091"
-      android:strokeLineJoin="round"
-      android:strokeWidth="3.1749928"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:fillAlpha="0.0901961"
       android:strokeLineCap="round"/>
 </vector>

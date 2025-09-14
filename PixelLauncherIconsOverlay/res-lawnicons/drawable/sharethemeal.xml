@@ -28,7 +28,7 @@ Copyright (C) 2025 The Android Open Source Project
   <path
       android:pathData="M85.515,77C79.68,77 74,80.124 74,88.782 74,101.286 96,117 96,117s22,-15.714 22,-28.218C118,80.124 112.324,77 106.496,77c-4.55,0 -8.021,3.24 -10.496,7.143C93.514,80.222 90.054,77 85.515,77"
       android:strokeLineJoin="round"
-      android:strokeWidth="10"
+      android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>

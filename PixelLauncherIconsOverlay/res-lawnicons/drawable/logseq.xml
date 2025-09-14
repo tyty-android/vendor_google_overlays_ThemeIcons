@@ -29,7 +29,7 @@ Copyright (C) 2025 The Android Open Source Project
       android:fillColor="#00000000"
       android:strokeColor="#000"/>
   <path
-      android:pathData="M23.185,10.6432a3.2025,5.4543 75.2491,1 0,10.5267 -2.8589a3.2025,5.4543 75.2491,1 0,-10.5267 2.8589z"
+      android:pathData="M23.1849,10.6434a3.2025,5.4543 75.2487,1 0,10.5267 -2.8589a3.2025,5.4543 75.2487,1 0,-10.5267 2.8589z"
       android:strokeWidth="3.175"
       android:fillColor="#00000000"
       android:strokeColor="#000"/>

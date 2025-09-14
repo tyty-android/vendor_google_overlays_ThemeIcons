@@ -19,9 +19,6 @@ Copyright (C) 2025 The Android Open Source Project
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="M38,83h30Z"
-      android:fillColor="#000"/>
-  <path
       android:pathData="M38,83h30"
       android:strokeWidth="12"
       android:fillColor="#00000000"
