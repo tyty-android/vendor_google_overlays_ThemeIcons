@@ -19,9 +19,17 @@ Copyright (C) 2025 The Android Open Source Project
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="M124.5,70.5c0,11.461 -6.159,18.5 -19.5,18.5H89a6,6 0,0 1,-6 -6V58a6,6 0,0 1,6 -6h16c13.337,0 19.5,7.66 19.5,18.5ZM22,22l23.67,29.351A6,6 0,0 1,47 55.118V164a6,6 0,0 0,6 6h24a6,6 0,0 0,6 -6v-50h8.5l28.795,52.87a6,6 0,0 0,5.269 3.13h26.053c4.617,0 7.504,-4.996 5.199,-8.996L128,111c19.42,-4.726 33.436,-22.018 33,-42 0,-25.427 -18.152,-47 -54,-47z"
+      android:pathData="M25,49c0,-13.255 10.745,-24 24,-24h94c13.255,0 24,10.745 24,24v94c0,13.255 -10.745,24 -24,24H49c-13.255,0 -24,-10.745 -24,-24z"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
-      android:strokeColor="#000"/>
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M68,53a6,6 0,0 1,6 -6h14a6,6 0,0 1,6 6v60a6,6 0,0 0,6 6h24a6,6 0,0 1,6 6v14a6,6 0,0 1,-6 6H74a6,6 0,0 1,-6 -6z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="12"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
 </vector>
