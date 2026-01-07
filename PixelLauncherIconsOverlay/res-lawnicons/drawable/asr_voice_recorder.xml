@@ -1,5 +1,5 @@
 <!--
-Copyright (C) 2025 The Android Open Source Project
+Copyright (C) 2026 The Android Open Source Project
 
    Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -27,12 +27,10 @@ Copyright (C) 2025 The Android Open Source Project
       android:strokeLineCap="round"/>
   <path
       android:pathData="M96,96m-32,0a32,32 0,1 1,64 0a32,32 0,1 1,-64 0"
-      android:strokeAlpha="0.3"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
-      android:fillAlpha="0.3"
       android:strokeLineCap="round"/>
   <path
       android:pathData="M96,96m-32,0a32,32 0,1 1,64 0a32,32 0,1 1,-64 0"
