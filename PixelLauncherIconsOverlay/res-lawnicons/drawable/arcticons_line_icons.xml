@@ -31,37 +31,7 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M96,33m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"
-      android:strokeWidth="10"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M41.44,64.5m-6,10.392a12,12 80.325,1 1,12 -20.785a12,12 80.325,1 1,-12 20.785"
-      android:strokeWidth="10"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M150.56,64.5m-6,-10.392a12,12 105.369,1 1,12 20.785a12,12 105.369,1 1,-12 -20.785"
-      android:strokeWidth="10"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M96,159m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"
-      android:strokeWidth="10"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M150.56,127.5m-6,10.392a12,12 63.88,1 1,12 -20.785a12,12 63.88,1 1,-12 20.785"
-      android:strokeWidth="10"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M41.44,127.501m-6,-10.392a12,12 102.867,1 1,12 20.785a12,12 102.867,1 1,-12 -20.785"
+      android:pathData="M96,45c6.627,0 12,-5.373 12,-12s-5.373,-12 -12,-12 -12,5.373 -12,12 5.373,12 12,12ZM41.44,76.5c6.627,0 12,-5.373 12,-12s-5.373,-12 -12,-12 -12,5.373 -12,12 5.372,12 12,12ZM150.56,76.5c6.627,0 12,-5.373 12,-12s-5.373,-12 -12,-12 -12,5.373 -12,12 5.373,12 12,12ZM96,171c6.627,0 12,-5.373 12,-12s-5.373,-12 -12,-12 -12,5.373 -12,12 5.373,12 12,12ZM150.56,139.5c6.627,0 12,-5.373 12,-12s-5.373,-12 -12,-12 -12,5.373 -12,12 5.373,12 12,12ZM41.44,139.501c6.628,0 12,-5.373 12,-12 0,-6.628 -5.372,-12 -12,-12 -6.627,0 -12,5.372 -12,12 0,6.627 5.373,12 12,12Z"
       android:strokeWidth="10"
       android:fillColor="#00000000"
       android:strokeColor="#000"

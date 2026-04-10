@@ -23,12 +23,13 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
-      android:strokeColor="#000"/>
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
   <path
-      android:pathData="m50.915,117.426 l45.085,0.078 45.085,-0.078L96,74.496z"
+      android:pathData="m96,74 l45,44H51z"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
-      android:strokeLineCap="butt"/>
+      android:strokeLineCap="round"/>
 </vector>

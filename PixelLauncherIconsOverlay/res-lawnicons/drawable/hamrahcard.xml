@@ -16,19 +16,12 @@ Copyright (C) 2026 The Android Open Source Project
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="192dp"
     android:height="192dp"
-    android:viewportWidth="50.8"
-    android:viewportHeight="50.8">
+    android:viewportWidth="192"
+    android:viewportHeight="192">
   <path
-      android:pathData="M28.4555,7.7773C24.4221,8.785 20.4834,10.3683 16.541,11.7168a6.9197,6.8988 89.9995,0 0,-4.6704 6.5518l0,20.2767c0,3.7625 2.9749,3.9339 6.7409,2.6449L18.6116,21.667a6.9197,6.8988 89.9995,0 1,4.6704 -6.5509l8.9062,-3.0482c0,-2.7055 -2.0083,-4.3902 -3.7326,-4.2906M18.6116,41.1903c0,2.5611 2.3797,4.3921 4.6704,3.6089l10.9767,-3.7569a6.9197,6.8988 89.9995,0 0,4.6704 -6.5509L38.929,14.7129c0,-3.7625 -2.9749,-3.9339 -6.7409,-2.6449"
+      android:pathData="M70.41,155.733c-14.196,4.85 -25.41,4.205 -25.41,-9.951V69.49a26.06,26.06 0,0 1,4.851 -15.155,26 26,0 0,1 12.755,-9.497c14.861,-5.074 29.708,-11.03 44.913,-14.822 6.5,-0.375 14.07,5.964 14.07,16.143M70.411,155.733V82.276a26.06,26.06 0,0 1,4.852 -15.152,26 26,0 0,1 12.753,-9.496L121.59,46.16M70.411,155.733c0,9.637 8.97,16.526 17.605,13.579l41.378,-14.136a26,26 0,0 0,12.754 -9.496A26.05,26.05 0,0 0,147 130.528V56.111c0,-14.157 -11.214,-14.801 -25.411,-9.952M101,30v-8M46,99l24,15m35,-62v110m21,-116v110"
       android:strokeLineJoin="round"
-      android:strokeWidth="3.175016"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M26.9894,8.1685L26.9894,5.8234M11.8707,26.3264l6.7409,3.906M28.2299,13.423l0,29.6812M33.5846,11.7317l0,29.5415"
-      android:strokeLineJoin="round"
-      android:strokeWidth="3.175016"
+      android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>

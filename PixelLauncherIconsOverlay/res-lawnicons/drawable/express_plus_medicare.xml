@@ -33,28 +33,14 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M96,57m-35,0a35,35 0,1 1,70 0a35,35 0,1 1,-70 0"
+      android:pathData="M96,92c19.33,0 35,-15.67 35,-35s-15.67,-35 -35,-35 -35,15.67 -35,35 15.67,35 35,35"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M66,122m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="10"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M98,133m-5,-0a5,5 0,1 0,10 -0a5,5 0,1 0,-10 -0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="10"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M114,159m-5,-0a5,5 0,1 0,10 -0a5,5 0,1 0,-10 -0"
+      android:pathData="M66,127a5,5 0,1 0,0 -10,5 5,0 0,0 0,10m32,1a5,5 0,1 1,-0.001 10.001A5,5 0,0 1,98 128m16,26a5,5 0,1 1,-0.001 10.001A5,5 0,0 1,114 154"
       android:strokeLineJoin="round"
       android:strokeWidth="10"
       android:fillColor="#00000000"

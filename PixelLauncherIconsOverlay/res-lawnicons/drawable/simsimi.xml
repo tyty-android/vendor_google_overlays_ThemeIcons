@@ -19,8 +19,8 @@ Copyright (C) 2026 The Android Open Source Project
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="M65,94c16,27 44,32 44,32"
-      android:strokeWidth="8"
+      android:pathData="M64,95c16,27 44,32 44,32"
+      android:strokeWidth="10"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
@@ -31,31 +31,25 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M122,52a10,10 0,1 0,0 20"
-      android:strokeWidth="6"
+      android:pathData="M122,54a10,10 0,1 0,0 20"
+      android:strokeWidth="10"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M102,90m-68,0a68,68 0,1 1,136 0a68,68 0,1 1,-136 0"
+      android:pathData="M102,158c37.555,0 68,-30.445 68,-68s-30.445,-68 -68,-68 -68,30.445 -68,68 30.445,68 68,68Z"
       android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M122,55m-3,-0a3,3 0,1 0,6 -0a3,3 0,1 0,-6 -0"
+      android:pathData="M122,52a3,3 0,1 1,0 6,3 3,0 0,1 0,-6Z"
       android:strokeWidth="6"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M73.413,68.827a4,2.667 135,1 0,3.772 3.772a4,2.667 135,1 0,-3.772 -3.772z"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M128.689,107.452a2.667,4 45,1 0,3.772 3.772a2.667,4 45,1 0,-3.772 -3.772z"
+      android:pathData="M72.588,73.412c1.073,1.072 3.245,0.637 4.853,-0.97 1.608,-1.609 2.043,-3.781 0.97,-4.854 -1.072,-1.072 -3.244,-0.637 -4.852,0.97 -1.608,1.609 -2.043,3.781 -0.97,4.854ZM127.588,112.412c1.072,1.072 3.245,0.638 4.853,-0.971 1.609,-1.608 2.043,-3.781 0.971,-4.853s-3.245,-0.638 -4.853,0.971c-1.609,1.608 -2.043,3.781 -0.971,4.853Z"
       android:strokeWidth="8"
       android:fillColor="#00000000"
       android:strokeColor="#000"

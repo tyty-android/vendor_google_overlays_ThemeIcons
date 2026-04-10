@@ -16,26 +16,12 @@ Copyright (C) 2026 The Android Open Source Project
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="192dp"
     android:height="192dp"
-    android:viewportWidth="50.8"
-    android:viewportHeight="50.8">
+    android:viewportWidth="192"
+    android:viewportHeight="192">
   <path
-      android:pathData="m9.925,6.302 l6.304,-0.481v39.158h5.067H9.79"
+      android:pathData="m123,77 l-62,64m79,29 l-48,-60m-55,60h44m-20,0V28a6,6 0,0 0,-6 -6H37m76,148h46M94,77h46"
       android:strokeLineJoin="round"
-      android:strokeWidth="3.175"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m16.553,36.994 l16.115,-16.56h4.427,-12.166"
-      android:strokeLineJoin="round"
-      android:strokeWidth="3.175"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m24.387,29.205 l12.504,15.774h5.14,-11.91"
-      android:strokeLineJoin="round"
-      android:strokeWidth="3.175"
+      android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>

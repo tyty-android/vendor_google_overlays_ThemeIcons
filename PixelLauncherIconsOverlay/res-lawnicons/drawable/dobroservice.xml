@@ -26,7 +26,7 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M51,27m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"
+      android:pathData="M51,31a4,4 0,1 0,0 -8,4 4,0 0,0 0,8"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
@@ -40,7 +40,7 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M164,52m-0,-4a4,4 0,1 1,-0 8a4,4 0,1 1,-0 -8"
+      android:pathData="M164,56a4,4 0,1 0,0 -8,4 4,0 0,0 0,8"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
@@ -54,7 +54,7 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M139,165m4,-0a4,4 0,1 1,-8 -0a4,4 0,1 1,8 -0"
+      android:pathData="M139,169a4,4 0,1 0,0 -8,4 4,0 0,0 0,8"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
@@ -68,7 +68,7 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M26,140m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8"
+      android:pathData="M26,144a4,4 0,1 0,0 -8,4 4,0 0,0 0,8"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"

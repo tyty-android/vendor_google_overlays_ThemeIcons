@@ -26,49 +26,7 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M22,96m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="6"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M43.674,43.674m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="6"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M43.674,148.326m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="6"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M67.681,27.633m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="6"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M27.633,124.319m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="6"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M27.633,67.681m-3,-0a3,3 0,1 0,6 -0a3,3 0,1 0,-6 -0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="6"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M67.681,164.367m-3,-0a3,3 0,1 0,6 -0a3,3 0,1 0,-6 -0"
+      android:pathData="M22,99a3,3 0,1 0,0 -6,3 3,0 0,0 0,6m21.674,-52.326a3,3 0,1 0,0 -6,3 3,0 0,0 0,6m0,104.652a3,3 0,1 0,0 -6,3 3,0 0,0 0,6M67.681,30.633a3,3 0,1 0,0 -6,3 3,0 0,0 0,6m-40.048,96.686a3,3 0,1 0,0 -6,3 3,0 0,0 0,6m0,-62.638a3,3 0,1 1,0 6,3 3,0 0,1 0,-6m40.048,96.686a3,3 0,1 1,0 6,3 3,0 0,1 0,-6"
       android:strokeLineJoin="round"
       android:strokeWidth="6"
       android:fillColor="#00000000"

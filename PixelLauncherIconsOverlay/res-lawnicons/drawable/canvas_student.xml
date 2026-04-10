@@ -26,56 +26,7 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M58,96m0,-4a4,4 0,1 0,0 8a4,4 0,1 0,0 -8"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M69.13,69.13m2.828,-2.828a4,4 0,1 0,-5.657 5.657a4,4 0,1 0,5.657 -5.657"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M96,58m4,0a4,4 0,1 0,-8 0a4,4 0,1 0,8 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M122.869,69.129m2.828,2.828a4,4 0,1 0,-5.657 -5.657a4,4 0,1 0,5.657 5.657"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M134,96m0,-4a4,4 0,1 0,0 8a4,4 0,1 0,0 -8"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M122.871,122.87m2.828,-2.828a4,4 0,1 0,-5.657 5.657a4,4 0,1 0,5.657 -5.657"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M96,134m4,0a4,4 0,1 0,-8 0a4,4 0,1 0,8 0"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M69.13,122.869m2.828,2.828a4,4 0,1 0,-5.657 -5.657a4,4 0,1 0,5.657 5.657"
+      android:pathData="M58,92a4,4 0,1 1,0 8,4 4,0 0,1 0,-8m11.13,-26.87a4,4 0,1 1,0 8,4 4,0 0,1 0,-8M96,54a4,4 0,1 1,0 8,4 4,0 0,1 0,-8m26.869,11.13a4,4 0,1 1,0 8,4 4,0 0,1 0,-8M134,92a4,4 0,1 1,0 8,4 4,0 0,1 0,-8m-11.129,26.87a4,4 0,1 1,0 8,4 4,0 0,1 0,-8M96,130a4,4 0,1 1,0 8,4 4,0 0,1 0,-8m-26.87,-11.131a4,4 0,1 1,-0.001 8,4 4,0 0,1 0,-8Z"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"

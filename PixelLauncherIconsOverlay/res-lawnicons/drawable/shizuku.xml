@@ -26,28 +26,21 @@ Copyright (C) 2026 The Android Open Source Project
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M25,95V31a6,6 0,0 1,6 -6h130a6,6 0,0 1,6 6v130a6,6 0,0 1,-6 6h-58"
+      android:pathData="M25,95V31a6,6 0,0 1,6 -6h130a6,6 0,0 1,6 6v130a6,6 0,0 1,-1.757 4.243A6,6 0,0 1,161 167h-58"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M40.102,115.724a2.5,3 105,1 0,5.796 1.553a2.5,3 105,1 0,-5.796 -1.553z"
+      android:pathData="M42.353,118.915c1.6,0.429 3.188,-0.305 3.545,-1.639 0.357,-1.333 -0.65,-2.762 -2.25,-3.191s-3.188,0.305 -3.546,1.639c-0.357,1.333 0.65,2.762 2.251,3.191m38,16c1.6,0.429 3.188,-0.305 3.545,-1.639 0.357,-1.333 -0.65,-2.762 -2.25,-3.191s-3.188,0.305 -3.546,1.639c-0.357,1.333 0.65,2.762 2.251,3.191"
       android:strokeLineJoin="round"
       android:strokeWidth="6"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M78.102,131.724a2.5,3 105,1 0,5.796 1.553a2.5,3 105,1 0,-5.796 -1.553z"
-      android:strokeLineJoin="round"
-      android:strokeWidth="6"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m129.968,80 l-11.854,-21H73.886l-3.67,6.5"
+      android:pathData="m129.968,80 l-11.854,-21H73.886l-3.388,6"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
