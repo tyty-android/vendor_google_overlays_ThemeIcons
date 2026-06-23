@@ -1,0 +1,42 @@
+<!--
+Copyright (C) 2026 The Android Open Source Project
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+  <path
+      android:pathData="m132.14,86.676 l-45.51,45.289a37.9,37.9 0,0 1,-12.282 8.167,38.03 38.03,0 0,1 -28.977,0 37.9,37.9 0,0 1,-12.282 -8.167,37.7 37.7,0 0,1 -8.207,-12.223 37.52,37.52 0,0 1,0 -28.836,37.7 37.7,0 0,1 8.207,-12.223l13.385,-13.32m13.386,39.961 l45.51,-45.289A37.95,37.95 0,0 1,132.14 49a37.95,37.95 0,0 1,26.771 11.035A37.58,37.58 0,0 1,170 86.675a37.58,37.58 0,0 1,-11.089 26.641l-13.385,13.321"
+      android:strokeLineJoin="round"
+      android:strokeWidth="12"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M64,48m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"
+      android:strokeLineJoin="round"
+      android:strokeWidth="8"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M128,144m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"
+      android:strokeLineJoin="round"
+      android:strokeWidth="8"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+</vector>
