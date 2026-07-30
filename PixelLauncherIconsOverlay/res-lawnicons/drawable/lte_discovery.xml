@@ -19,14 +19,7 @@ Copyright (C) 2026 The Android Open Source Project
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="M102,30h60a6,6 0,0 1,6 6v120a6,6 0,0 1,-6 6h-60m42,-98v60m-24,-44v44M96,98v28m-24,-10v12M48,30H30a6,6 0,0 0,-6 6v120a6,6 0,0 0,6 6h18"
-      android:strokeLineJoin="round"
-      android:strokeWidth="12"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m102,30 l-47.014,-7.917C51.33,21.473 48,24.296 48,28.008v135.984c0,3.712 3.33,6.535 6.986,5.925L102,162"
+      android:pathData="M96,22 L31,58v76l65,36 65,-36L161,58zM57,110v50m78,-128v128M83,84v76m26,-102v102"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
